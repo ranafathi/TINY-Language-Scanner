@@ -1,0 +1,29 @@
+C:\Users\engah\source\repos\Scanner\bin\Debug\Scanner.exe.config
+C:\Users\engah\source\repos\Scanner\bin\Debug\Scanner.exe
+C:\Users\engah\source\repos\Scanner\bin\Debug\Scanner.pdb
+C:\Users\engah\source\repos\Scanner\obj\Debug\Scanner.Form1.resources
+C:\Users\engah\source\repos\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+C:\Users\engah\source\repos\Scanner\obj\Debug\Scanner.csproj.GenerateResource.cache
+C:\Users\engah\source\repos\Scanner\obj\Debug\Scanner.exe
+C:\Users\engah\source\repos\Scanner\obj\Debug\Scanner.pdb
+C:\Users\engah\source\repos\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\bin\Debug\Scanner.exe.config
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\bin\Debug\Scanner.exe
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\bin\Debug\Scanner.pdb
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\obj\Debug\Scanner.csprojAssemblyReference.cache
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\obj\Debug\Scanner.Form1.resources
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\obj\Debug\Scanner.csproj.GenerateResource.cache
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\obj\Debug\Scanner.exe
+C:\Users\M NemO\Desktop\11_15p3041\11_15p3041\Scanner\obj\Debug\Scanner.pdb
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\bin\Debug\Scanner.exe.config
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\bin\Debug\Scanner.exe
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\bin\Debug\Scanner.pdb
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\obj\Debug\Scanner.csprojAssemblyReference.cache
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\obj\Debug\Scanner.Form1.resources
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\obj\Debug\Scanner.csproj.GenerateResource.cache
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\obj\Debug\Scanner.exe
+E:\Spring 2021\Compilers\Scanner&Parser\Scanner\obj\Debug\Scanner.pdb
