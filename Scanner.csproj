@@ -106,6 +106,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\scanner.ico" />
+    <Content Include="Resources\ScannerBackground.jpg" />
+    <None Include="Resources\ScannerBackground1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
